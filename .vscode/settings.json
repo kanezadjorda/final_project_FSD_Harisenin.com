@@ -1,0 +1,9 @@
+{
+  "livePreview.defaultPreviewPath": "/5.4 Color Vocab Project/index.html",
+  "liveServer.settings.port": 5501,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.fontSize": 16
+}
